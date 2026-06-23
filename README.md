@@ -24,6 +24,14 @@ The goal is to identify revenue drivers and operational gaps in hotel management
 
 ---
 
+## 📊 Dashboard Visualization
+
+### Hotel Performance Dashboard
+
+![Hotel Performance Dashboard](Hotel_Performance_Dashboard.png)
+
+---
+
 ## Key Insights
 
 ### 1. Revenue Trend
